@@ -4,7 +4,7 @@
 
 *Some thoughts*:
 
-The challenge is named we-will. Hmm, this sounds familiar. Oh yea, the song: We will rock you. "*We will, we will rock you*"
+The challenge is named we-will. Hmm, this sounds familiar. Oh yea, the song: We will rock you. "*We will, we will rock you*."
 Oh, that is a big hint right there! I think we need to use rockyou.txt!
 
 
