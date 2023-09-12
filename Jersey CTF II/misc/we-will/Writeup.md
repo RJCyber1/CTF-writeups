@@ -18,6 +18,6 @@ Now, we need to run JohnTheRipper on this .hash file using the rockyou.txt wordl
 
 ```john flaghash.hash --wordlist=rockyou.txt```
 
-Let john do its majic, and boom! We got our password: `*@@!^^$25Jjersey` Let's unzip the original file and get our flag!
+Let john do its magic, and boom! We got our password: `*@@!^^$25Jjersey` Let's unzip the original file and get our flag!
 
 Flag: `jctf{y0u_r0ck3d_17}`
